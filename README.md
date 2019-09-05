@@ -1,3 +1,3 @@
-#Technology: <br>
+Technology: <br>
 Grails <br>
 Jquery
